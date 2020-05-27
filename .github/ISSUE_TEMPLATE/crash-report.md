@@ -12,6 +12,10 @@ If you don't want to use https://hastebin.com. Then use https://pastebin.com. If
 
 If you have a crash report to submit please submit is below using the following information format.
 
+Description:
+
+How to reproduce the crash:
+
 Modpack version:
 
 Forge version:
@@ -21,6 +25,10 @@ Minecraft version:
 Crash report log:
 
 If you have other issues than game crashing. Then please submit it below using the following information format.
+
+Description:
+
+How to reproduce the issue:
 
 Modpack version:
 
